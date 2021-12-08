@@ -1,0 +1,14 @@
+[ 
+    {
+    "titulo": "practicar el switch",
+    "estado":  "pendiente"
+    },
+    {  
+    "titulo" : "practicar el for",
+    "estado" : "terminado"
+    },
+    {
+        "titulo" : "ver jason",
+        "estado" : "pendiente"
+    }
+    ]
